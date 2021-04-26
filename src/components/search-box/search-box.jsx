@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './search-box.styles.css';
+import './search-box.css';
 
 export const SearchBox = props => (
   <input
